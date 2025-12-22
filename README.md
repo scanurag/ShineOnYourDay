@@ -11,7 +11,7 @@
 - **Fully functional demo** with simulated payments, pre-populated data, and role-based access
 
 ## 📸 Screenshots
-[![Project Banner]([https://github.com/scanurag/ShineOnYourDay/blob/f42fc3a7abd90390455756da12ef6417206505cd/Screenshot%202025-12-12%20215247.png](https://github.com/scanurag/ShineOnYourDay/blob/e3d31f6883593999cd07b219fd258f4bbe52d9b4/Screenshot%202025-12-12%20215304.png))](https://via.placeholder.com)
+https://github.com/scanurag/ShineOnYourDay/blob/e3d31f6883593999cd07b219fd258f4bbe52d9b4/Screenshot%202025-12-12%20215304.png
 - Home Page with featured venues
 - Venue Detail & Gallery
 - Multi-step Booking Wizard
