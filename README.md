@@ -1,7 +1,7 @@
 # ShineOnYourDay 
 # 🎉 Vow Venue - Marriage Hall Booking Platform
 
-[![Project Banner](https://via.placeholder.com/1200x600.png?text=Vow+Venue+-+Marriage+Hall+Booking+Platform)](https://via.placeholder.com)
+[![Project Banner](https://github.com/scanurag/ShineOnYourDay/blob/f42fc3a7abd90390455756da12ef6417206505cd/Screenshot%202025-12-12%20215247.png)](https://via.placeholder.com)
 
 > A modern, responsive web application for browsing, booking, and managing marriage halls & banquet venues. Built with a focus on great user experience for customers and powerful admin controls.
 
