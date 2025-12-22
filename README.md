@@ -1,104 +1,135 @@
-# ShineOnYourDay 
-# 🎉 Vow Venue - Marriage Hall Booking Platform
+# 🌟 ShineOnYourDay  
+## 🎉 Vow Venue – Marriage Hall Booking Platform
 
-[![Project Banner](https://github.com/scanurag/ShineOnYourDay/blob/f42fc3a7abd90390455756da12ef6417206505cd/Screenshot%202025-12-12%20215247.png)](https://via.placeholder.com)
+![Project Banner](https://github.com/scanurag/ShineOnYourDay/blob/f42fc3a7abd90390455756da12ef6417206505cd/Screenshot%202025-12-12%20215247.png)
 
-> A modern, responsive web application for browsing, booking, and managing marriage halls & banquet venues. Built with a focus on great user experience for customers and powerful admin controls.
+> A modern, responsive web application for browsing, booking, and managing marriage halls & banquet venues.  
+> Designed with a seamless user experience and powerful admin controls.
+
+---
 
 ## 🚀 Live Demo
 
-- **Frontend Running at**: `http://localhost:5000` (after starting the dev server)
-- **Fully functional demo** with simulated payments, pre-populated data, and role-based access
+- **Frontend URL**: `http://localhost:5000` (after starting dev server)
+- Fully functional demo with:
+  - Simulated payments
+  - Preloaded venues & bookings
+  - Role-based authentication
 
-## 📸 Screenshots
-https://github.com/scanurag/ShineOnYourDay/blob/e3d31f6883593999cd07b219fd258f4bbe52d9b4/Screenshot%202025-12-12%20215304.png
-- Home Page with featured venues
-- Venue Detail & Gallery
-- Multi-step Booking Wizard
-- User Dashboard
-- Admin Dashboard & Venue Management
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home & Venue Browsing
+![Home](https://github.com/scanurag/ShineOnYourDay/blob/e3d31f6883593999cd07b219fd258f4bbe52d9b4/Screenshot%202025-12-12%20215304.png)
+![Venue List](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215317.png)
+![Venue Details](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215338.png)
+
+### 📅 Booking Flow
+![Calendar](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215359.png)
+![Booking Step](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215415.png)
+![Payment](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215533.png)
+![Confirmation](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215558.png)
+
+### 👤 User Dashboard
+![User Dashboard](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215610.png)
+![Bookings](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215706.png)
+
+### 🛠 Admin Panel
+![Admin Dashboard](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215720.png)
+![Admin Stats](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-22%20143313.png)
+![Venue Management](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-22%20143421.png)
+
+---
 
 ## ✨ Key Features
 
-- **User Authentication** (Register / Login / Role-based access)
-- **Venue Browsing** with search, filters (price, capacity, amenities)
-- **Advanced Booking System**
-  - Interactive calendar with availability status (Green/Orange/Red)
-  - Time slot selection: Morning, Evening, Full Day (different pricing)
-  - Multi-step booking wizard with validation
-- **Simulated Payment Gateway** (Stripe-like UI – use test card: 4242 4242 4242 4242)
-- **User Dashboard** – View bookings, download PDF receipts
-- **Powerful Admin Panel**
-  - Statistics (total bookings, pending, revenue)
-  - Booking verification & approval workflow
-  - Full CRUD for venues
-- **Responsive Design** – Works perfectly on mobile, tablet, and desktop
-- **LocalStorage Persistence** – Data survives page refreshes
+### 👥 User Features
+- User authentication (Register / Login)
+- Browse venues with filters (price, capacity, amenities)
+- Venue gallery & detailed info
+- Multi-step booking wizard
+- Interactive availability calendar (Green / Orange / Red)
+- Time slots:
+  - Morning
+  - Evening
+  - Full Day
+- Simulated payment gateway
+- Downloadable PDF receipts
+- User dashboard with booking history
 
-## 🧑‍💻 Test Accounts
+### 🧑‍💼 Admin Features
+- Admin dashboard with analytics
+- Booking approval / rejection
+- Revenue & booking statistics
+- Full CRUD for venues
+- Role-based access control
 
-### Admin (Full Access)
-- Email: `admin@vow.com`
-- Password: `admin`
-- Redirects to: `/admin`
+---
 
-### Regular User (With existing bookings)
-- Email: `rajesh@example.com`
-- Password: `demo`
-- Redirects to: `/dashboard`
+## 🧪 Test Accounts
 
-## 🎭 Demo Guide & Testing Flow
+### 🔐 Admin
+- **Email**: `admin@vow.com`
+- **Password**: `admin`
+- **Route**: `/admin`
 
-### Quick Start
-1. Run the project → Open `http://localhost:5000`
-2. Browse featured venues on the homepage
-3. Login with demo credentials or register a new account
+### 👤 User
+- **Email**: `rajesh@example.com`
+- **Password**: `demo`
+- **Route**: `/dashboard`
 
-### Recommended Demo Flow
-1. Login as **rajesh@example.com** → Explore dashboard with pre-existing confirmed bookings
-2. Browse venues → Filter → View details of "The Grand Crystal Ballroom"
-3. Try booking a new date → Go through all 4 steps (Date → Details → Payment → Confirmation)
-4. Logout → Login as **admin@vow.com**
-5. Check admin dashboard → Verify pending bookings → Approve/Reject
-6. Go to Venue Management → Add/Edit/Delete a venue
+---
 
-### Pre-loaded Demo Data
-- 4 beautiful venues with images, descriptions, and amenities
-- Multiple bookings (some confirmed, some pending verification)
+## 🎭 Demo Walkthrough
+
+1. Login as **rajesh@example.com**
+2. Browse venues → Book a new date
+3. Complete booking wizard
+4. Make payment using test card  
+   `4242 4242 4242 4242`
+5. Logout → Login as **admin**
+6. Approve or reject pending bookings
+7. Manage venues
+
+---
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React.js + Vite
-- **Backend** (Java Spring Boot)
-- Java 17 or 21
+### Frontend
+- React.js + Vite
+- Tailwind CSS
+- React Router DOM
+- React Hook Form
+- Context API
+- Lucide Icons
+- date-fns
+
+### Backend (Pluggable)
+- Java 17 / 21
 - Spring Boot 3.x
 - Spring Security + JWT
-- Spring Data JPA (Hibernate)
+- Hibernate (JPA)
 - MySQL / PostgreSQL
-- Lombok
-- Validation (Bean Validation)
 - Maven
-- Optional: Spring Mail, PDF generation (iText), Stripe/Razorpay SDK
-- **Styling**: Tailwind CSS + Custom Components
-- **State Management**: React Context / useState
-- **Routing**: React Router DOM
-- **Form Handling**: React Hook Form
-- **Calendar**: Custom built with date-fns
-- **Data Storage**: Browser localStorage (for demo purposes)
-- **Payment Simulation**: Custom form (no real transactions)
-- **Icons**: Lucide React
+- Lombok
 
-## 📡 API Integration Ready
+### Other
+- LocalStorage (Demo persistence)
+- Simulated payment gateway
+- PDF generation ready
+- API-ready architecture
 
-All API calls are centralized in `src/lib/api.ts`. Ready to connect to your backend (Java Spring Boot, Node.js, etc.):
+---
 
-```typescript
-// Example endpoints
-POST /api/auth/login
-POST /api/auth/register
-GET  /api/venues
-GET  /api/venues/:id
-POST /api/bookings
-GET  /api/bookings/user/:userId
-PATCH /api/admin/bookings/:id/status
-// ...and more
+## 📡 API Endpoints (Ready)
+
+```ts
+POST   /api/auth/login
+POST   /api/auth/register
+GET    /api/venues
+GET    /api/venues/:id
+POST   /api/bookings
+GET    /api/bookings/user/:userId
+PATCH  /api/admin/bookings/:id/status
+
