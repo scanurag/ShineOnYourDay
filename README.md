@@ -40,7 +40,51 @@
 ![Venue Management](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-22%20143421.png)
 
 ---
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img width="1915" height="1079" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/90902a81f32c4c536d2b13d4945476995c19c3d3/1.jpeg" /></td>
+    <td><img width="1897" height="1079" alt="Image" src="https://github.com/user-attachments/assets/63788edc-f7c6-4e89-ae2c-8df739c38c36" /></td>
+  </tr>
+</table>
 
+<br>
+
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img width="1912" height="1055" alt="Image" src="https://github.com/user-attachments/assets/3b7f813d-d76a-4f92-9278-278486e54ffb" /></td>
+    <td><img width="1917" height="1076" alt="Image" src="https://github.com/user-attachments/assets/e2731f8d-69aa-48de-b936-62122f31336f" /></td>
+  </tr>
+</table>
+
+<br>
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img width="1917" height="1075" alt="Image" src="https://github.com/user-attachments/assets/e5fed8e0-04d8-4868-8589-2ad6f2150bed" /></td>
+    <td><img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a381ef74-b086-4aa0-bfd6-579308d19f3a" /></td>
+  </tr>
+</table>
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img width="1913" height="1077" alt="Image" src="https://github.com/user-attachments/assets/710a2c33-bccc-48b4-9ed5-9b0c5e6a075d" /></td>
+    <td><img width="1907" height="1075" alt="Image" src="https://github.com/user-attachments/assets/7752c22f-38fa-4028-ba33-83903e197d8c" /></td>
+  </tr>
+</table>  
+<br> 
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/1323fc36-05cf-4eae-a413-9ecaff2f8344" /></td>
+  </tr>
+</table>  
 ## ✨ Key Features
 
 ### 👥 User Features
