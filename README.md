@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><img width="1912" height="1055" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/3.jpeg" /></td>
-    <td><img width="1917" height="1076" alt="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/4.jpeg" /></td>
+    <td><img width="1917" height="1076" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/4.jpeg" /></td>
   </tr>
 </table>
 
@@ -92,6 +92,14 @@
   <tr>
     <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/11.jpeg" /></td>
     <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/12.jpeg" /></td>
+  </tr>
+</table> 
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/6f22658a387265a403bd1946ef16246d87db139a/13.jpeg" /></td>
+    <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/6f22658a387265a403bd1946ef16246d87db139a/14.jpeg" /></td>
   </tr>
 </table> 
 ## ✨ Key Features
