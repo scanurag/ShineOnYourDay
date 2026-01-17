@@ -22,7 +22,7 @@
 
 ### 🏠 Home & Venue Browsing
 ![Home](https://github.com/scanurag/ShineOnYourDay/blob/e3d31f6883593999cd07b219fd258f4bbe52d9b4/Screenshot%202025-12-12%20215304.png)
-![Booking Step](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215415.png)
+![Booking Step](https://github.com/scanurag/ShineOnYourDay/blob/34a98c5baf23b6b6f86505bd360d49b94dd3898a/Screenshot%202026-01-17%20223710.png)
 ![Venue Details](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215338.png)
 
 ### 📅 Booking Flow
