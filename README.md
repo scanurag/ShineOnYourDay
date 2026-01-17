@@ -33,6 +33,7 @@
 
 ### 👤 User Dashboard
 ![User Dashboard](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215610.png)
+![Bookings](https://github.com/scanurag/ShineOnYourDay/blob/1d06b2447ae65307d0207e568641dfcfafdda8ed/Screenshot%202026-01-17%20223753.png)
 ![Bookings](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215706.png)
 
 ### 🛠 Admin Panel
