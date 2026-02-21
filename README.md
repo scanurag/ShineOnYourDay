@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/9.jpeg" /></td>
-    <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/f50c1c3453657dad067ed3994438468affa0bb14/10.jpeg" /></td>
+    <td><img width="1919" height="1077" alt="Image" src="https://github.com/scanurag/ShineOnYourDay/blob/01d9ac02d27256eb26b5a76b950c5f7a41c560ce/WhatsApp%20Image%202026-02-21%20at%206.54.57%20PM.jpeg" /></td>
   </tr>
 </table>  
 <table>
