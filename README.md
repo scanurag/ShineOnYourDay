@@ -29,7 +29,7 @@
 ### 📅 Booking Flow
 ![Calendar](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215359.png)
 ![Payment](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215533.png)
-![Confirmation](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215558.png)
+![Confirmation](https://github.com/scanurag/ShineOnYourDay/blob/c596806593d6a658616dad7beb5b0d4606cb3d2b/Screenshot%202026-02-21%20174224.png)
 
 ### 👤 User Dashboard
 ![User Dashboard](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-12%20215610.png)
