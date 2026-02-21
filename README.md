@@ -38,7 +38,6 @@
 
 ### 🛠 Admin Panel
 ![Admin Dashboard](https://github.com/scanurag/ShineOnYourDay/blob/7d87a0daf70b30e04fd9bea3c64e793691c1efe3/Screenshot%202026-02-21%20184926.png)
-![Admin Stats](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-22%20143313.png)
 ![Venue Management](https://github.com/scanurag/ShineOnYourDay/blob/0fb30ea4775c26b4022c9624dfe1910fc75ab64e/Screenshot%202025-12-22%20143421.png)
 
 ---
