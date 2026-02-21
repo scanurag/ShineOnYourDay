@@ -120,10 +120,6 @@
 - Venue gallery & detailed info
 - Multi-step booking wizard
 - Interactive availability calendar (Green / Orange / Red)
-- Time slots:
-  - Morning
-  - Evening
-  - Full Day
 - Simulated payment gateway
 - Downloadable PDF receipts
 - User dashboard with booking history
@@ -156,8 +152,7 @@
 1. Login as **rajesh@example.com**
 2. Browse venues → Book a new date
 3. Complete booking wizard
-4. Make payment using test card  
-   `4242 4242 4242 4242`
+4. Make payment
 5. Logout → Login as **admin**
 6. Approve or reject pending bookings
 7. Manage venues
@@ -191,15 +186,4 @@
 - API-ready architecture
 
 ---
-
-## 📡 API Endpoints (Ready)
-
-```ts
-POST   /api/auth/login
-POST   /api/auth/register
-GET    /api/venues
-GET    /api/venues/:id
-POST   /api/bookings
-GET    /api/bookings/user/:userId
-PATCH  /api/admin/bookings/:id/status
 
